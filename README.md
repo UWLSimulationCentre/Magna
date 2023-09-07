@@ -1,4 +1,9 @@
-![](https://img.shields.io/github/contributors/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/last-commit/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/languages/top/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/issues/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/license/UWLSimulationCentre/Magna) ![](https://img.shields.io/website?url=https%3A%2F%2Fuwlsimulationcentre.github.io%2FMagna%2F&label=Project%20Status)
+![](https://i.imgur.com/Hoq8m18.png)
+![](https://img.shields.io/github/contributors/UWLSimulationCentre/Magna)
+![](https://img.shields.io/github/last-commit/UWLSimulationCentre/Magna)
+![](https://img.shields.io/github/issues/UWLSimulationCentre/Magna)
+![](https://img.shields.io/github/license/UWLSimulationCentre/Magna)
+![](https://img.shields.io/website?url=https%3A%2F%2Fuwlsimulationcentre.github.io%2FMagna%2F&label=Project%20Status)
 
 # Magna - Patient Monitoring Emulator
 
