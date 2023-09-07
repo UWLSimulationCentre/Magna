@@ -9,6 +9,17 @@
 
 A simple patient monitor emulator designed for multi-screen use in training medical students. It displays a basic patient monitor in one window, and allows you to control that display from another.
 
+<table>
+  <tr>
+    <th>Control Screen</th>
+    <th>Display Screen</th>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/UWLSimulationCentre/Magna/blob/master/control-preview.png?raw=true" /> </td>
+    <td> <img src="https://github.com/UWLSimulationCentre/Magna/blob/master/display-preview.png?raw=true" /> </td>
+  </tr>
+</table>
+
 ## Description
 
 Designed to provide a simple method of emulating patient monitoring with the ability to change observations and ECGs to create different patient scenarios. **Magna** provides a control panel alongside a display panel to allow distance adjustment of observations to increase realism in simulated scenarios.
