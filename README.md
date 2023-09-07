@@ -1,12 +1,12 @@
-![](https://img.shields.io/github/contributors/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/last-commit/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/languages/top/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/issues/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/license/UWLSimulationCentre/project-magna) ![](https://img.shields.io/website?url=https%3A%2F%2Fuwlsimulationcentre.github.io%2Fproject-magna%2F&label=Project%20Status)
+![](https://img.shields.io/github/contributors/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/last-commit/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/languages/top/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/issues/UWLSimulationCentre/Magna) ![](https://img.shields.io/github/license/UWLSimulationCentre/Magna) ![](https://img.shields.io/website?url=https%3A%2F%2Fuwlsimulationcentre.github.io%2FMagna%2F&label=Project%20Status)
 
-# Project Magna - Patient Monitoring Emulator
+# Magna - Patient Monitoring Emulator
 
 A simple patient monitor emulator designed for multi-screen use in training medical students. It displays a basic patient monitor in one window, and allows you to control that display from another.
 
 ## Description
 
-Designed to provide a simple method of emulating patient monitoring with the ability to change observations and ECGs to create different patient scenarios. **Project Magna** provides a control panel alongside a display panel to allow distance adjustment of observations to increase realism in simulated scenarios.
+Designed to provide a simple method of emulating patient monitoring with the ability to change observations and ECGs to create different patient scenarios. **Magna** provides a control panel alongside a display panel to allow distance adjustment of observations to increase realism in simulated scenarios.
 
 ### Features
 
@@ -30,7 +30,7 @@ Designed to provide a simple method of emulating patient monitoring with the abi
 Accessible on Google Chrome & Firefox, not specifically tested on other browsers.
 
 ### Install
-No installation required, simply click on [this link](https://uwlsimulationcentre.github.io/project-magna/) to access the package directly.
+No installation required, simply click on [this link](https://uwlsimulationcentre.github.io/Magna/) to access the package directly.
 
 ### Usage
 
@@ -55,7 +55,7 @@ Usage of this tool for attacking targets without prior mutual consent is illegal
 - Base16's [Tomorrow Night](https://chriskempson.github.io/base16/) colours
 
 ### License
-This project is licensed under the [MIT License](https://github.com/UWLSimulationCentre/project-magna/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/UWLSimulationCentre/Magna/blob/main/LICENSE.md).
 
 ### Known Bugs
 
