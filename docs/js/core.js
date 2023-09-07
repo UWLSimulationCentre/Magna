@@ -19,7 +19,7 @@ function restoreBackup() {
 // VARIABLES ///////////////////////////////////////////////////////////////////
 
 emt = [
-    { id: "1-Sinus", src: "img/1-Sinus.gif",  name: "Sinus", current: false },
+    { id: "1-Sinus", src: "/docs/img/1-Sinus.gif",  name: "Sinus", current: false },
     { id: "2-Asystole", src: "img/2-Asystole.gif",  name: "Asystole", current: false },
     { id: "3-P-wave-Asystole", src: "img/3-P-wave-Asystole.gif",  name: "P wave Asystole", current: false },
      { id: "4-Venricular-fibrillation-coarse", src: "img/4-Venricular-fibrillation-coarse.gif",  name: "4-Venricular-fibrillation-coarse", current: false },
